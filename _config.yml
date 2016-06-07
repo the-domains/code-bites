@@ -1,0 +1,28 @@
+name: Code Bites
+favicon: null
+layout_spectrum: 0.104043273255229
+typography_spectrum: 0.7620215900242329
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.0448799766600132
+  lightness: 0.3257013480179012
+  saturation: 0.3626585458405316
+  rhythmicContrast: 0.7707857601344585
+purpose: []
